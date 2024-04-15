@@ -10,13 +10,13 @@ body {
 }
 
 /* Navbar styling */
-.navbar {
+#navigation {
     text-align: center;
     background-color: #535e53;
     color: #fff;
 }
 
-.navbar a {
+#navigation a {
     color: #fff;
     text-decoration: none;
     padding: 10px 20px;
